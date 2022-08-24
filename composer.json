@@ -1,6 +1,6 @@
 {
     "name": "sonnguyen/module-dev",
-    "description": "Print bill payment after success",
+    "description": "Module reproduct error catalog_index_refresh_price cron",
     "type": "magento2-module",
     "license": "GPL-3.0",
     "version": "1.0.1",
