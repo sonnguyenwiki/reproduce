@@ -1,0 +1,23 @@
+{
+    "name": "sonnguyen/module-dev",
+    "description": "Print bill payment after success",
+    "type": "magento2-module",
+    "license": "GPL-3.0",
+    "version": "1.0.1",
+    "authors": [
+        {
+            "name": "Mage2Gen",
+            "email": "info@mage2gen.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "files": [
+            "registration.php"
+        ],
+        "psr-4": {
+            "SonNguyen\\Dev\\": ""
+        }
+    }
+}
